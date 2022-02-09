@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lezzor
+- 👀 I’m interested advanced web application penetration testing and eLearnsecurity courses
+- 🌱 I’m currently learning bash and powershell scripting
+- 💞️ I’m looking to improve my Python and C# programming
